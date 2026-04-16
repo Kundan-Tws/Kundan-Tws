@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, Thank you for visiting my profile 👩🏾‍💻</h1>
 
 <!-- 🔥 Banner -->
-<p align="center">
+<p align="left">
   <img src="https://www.tekkiwebsolutions.com/wp-content/uploads/Kundan-Github-e1776327544981.png" alt="Kundan Kumar Banner" />
 </p>
 
