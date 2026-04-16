@@ -1,9 +1,11 @@
+<h1 align="center">👋 Hi, I'm Kundan Kumar Thank you for visiting my profile 👩🏾‍💻</h1>
+
 <!-- 🔥 Banner -->
 <p align="center">
   <img src="https://www.tekkiwebsolutions.com/wp-content/uploads/Kundan-Github-e1776327544981.png" alt="Kundan Kumar Banner" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Kundan Kumar</h1>
+
 <h3 align="center">🚀 Full Stack MERN Developer | 💳 Stripe Integration Expert | ☁️ Laravel & DevOps</h3>
 
 <p align="center">
