@@ -101,12 +101,19 @@
 
 ---
 
-## 🤝 Let's Connect
+## 📫 Let’s Connect!
 
-💬 Open for collaboration & freelance opportunities  
+I’m always open to exciting opportunities and meaningful collaborations 🤝  
+
+Feel free to reach out for:
+
+💻 Collaborations on innovative projects  
+📚 Technical consultations & guidance  
+💬 Chats about full-stack development, SaaS, or tech trends  
+🚀 Building scalable and impactful products together  
 
 ---
 
-## ⚡ Fun Fact
+## 😄 Passion
 
-💡 I don’t just write code — I build systems that scale 🚀
+| Full Stack Developer 💻 | Contributor 🌍 | DevOps Enthusiast ☁️ | Coder 👨‍💻 | Tech Lover ⚡ | Music Enthusiast 🎧 |
