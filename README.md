@@ -1,6 +1,6 @@
 <!-- 🔥 Banner -->
 <p align="center">
-  <img src="./banner.png" alt="Kundan Kumar Banner" />
+  <img src="https://www.tekkiwebsolutions.com/wp-content/uploads/Kundan-Github.png" alt="Kundan Kumar Banner" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Kundan Kumar</h1>
