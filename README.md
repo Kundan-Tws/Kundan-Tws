@@ -6,7 +6,7 @@
 </p>
 
 
-<h3 align="center">🚀 Full Stack MERN Developer | 💳 Stripe Integration Expert | ☁️ Laravel & DevOps</h3>
+<h3 align="left">🚀 Full Stack MERN Developer | 💳 Stripe Integration Expert | ☁️ Laravel & DevOps</h3>
 
 ---
 
