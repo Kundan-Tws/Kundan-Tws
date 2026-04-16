@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Kundan Kumar Thank you for visiting my profile 👩🏾‍💻</h1>
+<h1 align="center">👋 Hi, Thank you for visiting my profile 👩🏾‍💻</h1>
 
 <!-- 🔥 Banner -->
 <p align="center">
